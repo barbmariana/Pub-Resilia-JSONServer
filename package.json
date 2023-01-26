@@ -1,0 +1,24 @@
+{
+  "name": "pub-resilia-jsonserver",
+  "version": "1.0.0",
+  "description": "Creating a JSON server for a group website project",
+  "main": "server.js",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barbmariana/Pub-Resilia-JSONServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barbmariana/Pub-Resilia-JSONServer/issues"
+  },
+  "homepage": "https://github.com/barbmariana/Pub-Resilia-JSONServer#readme"
+}
