@@ -311,7 +311,7 @@
         "id": 12
       }
     ],
-    "drinks": [
+    "Drinks": [
         {
           "id": 1,
           "name": "Martini",
@@ -441,7 +441,7 @@
           "price": 18.2
         }
       ],
-      "cigarros": [
+      "Cigarros": [
         {
             "id": 1,
             "tipo": "cigarros e fumos",
