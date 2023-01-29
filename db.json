@@ -281,34 +281,6 @@
         "Preço": 55,
         "Tamanho": "350ml",
         "id": 8
-      },
-      {
-        "Nome": "Cerveja Skol  Speciality Beer Beats Senses Ale",
-        "tamanho": "269ml",
-        "imagem": "skolSpeciality.jpg",
-        "preco": 4.99,
-        "id":9
-      },
-      {
-        "Nome": "Cerveja Norteña AmbevUruguay",
-        "tamanho": "960ml",
-        "imagem": "nortenaAmbev.jpg",
-        "preco": 23.91,
-        "id":10
-      },
-      {
-        "produto": "Vinho Tinto Argentino Terrazas Afincado Malbec",
-        "tamanho": "750ml",
-        "imagem": "terrazasMalbec.jpg",
-        "preco": 355.30,
-        "id": 11
-      },
-      {
-        "Nome": "Vinho Tinto Casa Valduga Villa Lobos Cabernet Sauvignon",
-        "tamanho": "750ml",
-        "imagem": "casaValduga",
-        "preco": 195.00,
-        "id": 12
       }
     ],
     "Drinks": [
